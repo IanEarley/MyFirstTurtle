@@ -1,5 +1,5 @@
 from turtle import *
 
-bgcolor("#lightblue")
+bgcolor("lightblue")
 
 circle(50)
